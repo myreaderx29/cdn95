@@ -1,0 +1,331 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Design Experimentation: Exploring the Evolution of Ideation - Cognition: The blog of web design &amp; development firm Happy Cog</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@happycog" />
+<meta name="twitter:creator" content="@happycog" />
+
+
+<script>window.dataLayer = window.dataLayer || []; (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-K48WB6Z');</script>
+
+<meta property="og:image" content="http://cognition.happycog.com/m/content/experimentation-artwork-360x275.jpg"/>
+
+<meta property="og:description" content="Cognition - the blog by world-renowned web design and development agency Happy Cog, discussing design, user experience, business, content strategy and more." />
+<meta name="description" content="Cognition - the blog by world-renowned web design and development agency Happy Cog, discussing design, user experience, business, content strategy and more." />
+
+
+<meta property="og:title" content="Design Experimentation: Exploring the Evolution of Ideation" />
+<meta name="twitter:title" content="Design Experimentation: Exploring the Evolution of Ideation" />
+
+
+
+<meta property="og:url" content="https://cognition.happycog.com/article/design-experimentation-exploring-the-evolution-of-ideation" />
+
+
+<meta name="DC.publisher" content="Happy Cog" />
+<meta name="DC.language" content="en" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<link rel="alternate" href="https://feeds.vectormediagroup.com/cognitionfeed" type="application/rss+xml" title="RSS" />
+
+	<meta property="og:description" content="When I started design school, I was surprised to hear my professors say things like “there is no right answer” or “keep exploring, you’re not there yet.” Coming from the world of high school calculus and definitive, objective answers, it all felt a little too open-ended for me. However, I quickly learned that with this iterative way of thinking and experimenting, there weren’t any wrong answers either. As designers, we need to be willing to share a spectrum of ideas, including ones we might be unsure about, in order to receive the most helpful feedback, collaborate with our teammates, and ultimately produce the best designs." />
+	<link href="/a/c/screen.css?20110105" rel="stylesheet" media="screen, projection" />
+<link href="/a/c/print.css" rel="stylesheet" media="print" />
+<!--[if lt IE 8]><link href="/a/c/ie.css" rel="stylesheet" media="screen, projection" /><![endif]-->
+<!--[if lte IE 8]><link href="/a/c/ie8.css" rel="stylesheet" media="screen, projection" /><![endif]-->
+<!--[if IE 9]><link href="/a/c/ie9.css" rel="stylesheet" media="screen, projection" /><![endif]-->
+<script><!-- 
+document.write('<link href="/a/c/enhanced.css" rel="stylesheet" media="screen, projection" />');
+//-->
+</script>
+
+	</head>
+
+<body class="article">
+
+	
+	
+		
+	
+		
+	
+		
+	
+
+	
+	
+		
+	
+		
+	
+		
+	
+
+	<p class="move"><a href="#content">Skip to main content</a></p>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K48WB6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div id="header">
+	<div class="wrap">
+		<div class="logo"><a href="/">Cognition</a></div>
+		<ul id="main-nav">
+			<li id="topics-nav"><a href="/topics/" class="nav-title">Topics</a>
+				<div id="topics-nav-list">
+					<p class="most">Most Frequent</p>
+					<p class="aside">
+						Here are some topics that have been on our mind lately. For a full listing of topics, check out <a href="/topics/">Our Topics Page</a>.
+					</p>
+					<ol>
+
+				
+						<li>
+						<a href="/topic/filter/process">Process</a>
+						</li>
+
+				
+						<li>
+						<a href="/topic/filter/design">Design</a>
+						</li>
+
+				
+						<li>
+						<a href="/topic/filter/front-end-development">Front-end Development</a>
+						</li>
+
+				
+						<li>
+						<a href="/topic/filter/team">Team</a>
+						</li>
+
+				
+						<li>
+						<a href="/topic/filter/community">Community</a>
+						</li>
+
+				
+						<li>
+						<a href="/topic/filter/project-management">Project Management</a>
+						</li>
+
+				
+						<li>
+						<a href="/topic/filter/strategy">Strategy</a>
+						</li>
+
+				
+						<li>
+						<a href="/topic/filter/career">Career</a>
+						</li>
+
+				
+						<li>
+						<a href="/topic/filter/client-services">Client Services</a>
+						</li>
+
+				
+						<li>
+						<a href="/topic/filter/client-relations">Client Relations</a>
+						</li>
+
+				
+
+					</ol>
+					<p class="more"><a href="/topics/">View All Topics</a></p>
+				</div>
+			</li>
+		</ul>
+
+	</div></div>
+<div id="content">
+	<div class="wrap">
+
+
+	<div class="record">
+		<ul>
+			<li><span class="date-entry">August 13, 2019</span></li>
+		</ul>
+	</div>
+
+	<h2 class="alpha">Design Experimentation: Exploring the Evolution of Ideation</h2>
+
+	
+	<div class="article-meta">
+		<dl>
+			<dt>Related topics:</dt>
+			
+			<dd><a href="https://cognition.happycog.com/topic/filter/design-process">design process</a></dd>
+			
+			<dd><a href="https://cognition.happycog.com/topic/filter/design">Design</a></dd>
+			
+			
+		</dl>
+	</div>
+
+	<div class="aside article-author">
+	
+		<a href="/author/klechleiter" title="View more articles by Kate Lechleiter"><img src="/m/t.php?src=/m/avatars/uploads/avatar_317.jpg&amp;w=160" alt="" /></a>
+		<ul>
+			<li class="author">Kate Lechleiter</li>
+						<li class="title">Designer </li>
+			<li class="rss">
+				<a href="/author/klechleiter" title="View more articles by Kate Lechleiter" class="author-link">Kate&rsquo;s articles</a>
+				<a href="/author-feed/klechleiter" title="Subscribe to Kate&rsquo;s articles" class="author-feed">Feed</a>
+			</li>
+		</ul>
+	 
+	</div>
+
+	<div class="intro fancy">
+		
+				<p><span class="inset">    <img src="/m/content/experimentation-artwork-360x275.jpg" alt="" />       </span> When I started design school, I was surprised to hear my professors say things like “there is no right answer” or “keep exploring, you’re not there yet.” Coming from the world of high school calculus and definitive, objective answers, it all felt a little too open-ended for me. However, I quickly learned that with this iterative way of thinking and experimenting, there weren’t any wrong answers either. As designers, we need to be willing to share a spectrum of ideas, including ones we might be unsure about, in order to receive the most helpful feedback, collaborate with our teammates, and ultimately produce the best designs.</p>
+		
+	</div>
+
+	<div id="main">
+
+			<p>A designer I worked with early in my career would come to meetings with ideas she described as “half baked,” and that concept has always stuck with me. Sharing a “half baked” idea is the perfect opportunity for team collaboration and a fruitful feedback discussion. Fresh eyes can bring new perspectives to struggling ideas, so don’t let uncertainty hold you back from a potential design breakthrough. No ideation is ever a “mistake.” The following are some tips to help you approach the design experimentation process and ultimately improve the way you share ideas with your team. </p>
+
+	<h3>Be Curious, Go Broad</h3>
+
+	<p>During our discovery process, we set the strategic vision for a project based on qualitative and quantitative inputs from clients, users, and actual data. We’re learning, we’re gathering, but we’re not necessarily experimenting. So once we reach the visual design phase, it’s finally time to explore broadly, using our discovery findings as our guide.</p>
+
+	<h3>“Opt + Click + Drag”</h3>
+
+	<p>First, go for volume of ideas over design finesse. If something is “working,” but you want to try a few variations, duplicate it, and then make changes. It’s crucial to be able to look back on the evolution of an idea and describe your decision-making process to your team. Sometimes, they’ll even spot an earlier iteration that has untapped potential. Some quick tips to remember during this ideation phase:</p>
+
+<ul>
+<li>Go for quantity over quality. Try to create 25 completely different ideas in under an hour, maybe 50+ in two hours. At this point in the design process, it’s less about finding the perfect solution and more about exploring all possible solutions. </li>
+<li>Any time you make a noteworthy change in color, placement, rotation, layout, etc. duplicate the artboard or comp before making additional edits. Again, it’s helpful to view the overall idea evolution.</li>
+<li>Save early and save often. Version your files so you always have documentation of your process. Plus, you never know when your program might crash.</li>
+<li>Increase your ideation efficiency by learning keyboard shortcuts for your favorite programs.</li>
+</ul>
+
+	<p><center><img src="/m/content/DSC_5526.jpg" alt="many variations of the happy cog logo" width="625"  /></center></p>
+
+	<h3>Be Discerning</h3>
+
+	<p>Next, step back, assess your progress, and decide what to share with your team. Narrow your focus and evaluate the variety of options based on the client’s business goals, user needs, or specific design criteria established during the discovery process. When deciding what to share with your team, it can be helpful to sort ideas into these three buckets:</p>
+
+	<p>1. <strong>Share: </strong></p>
+
+	<p>These are ideas that are working well and should definitely be shared with the team. It’s important to be able to talk through why you think these are successful and what goals they’re achieving. If the answer to both of these is “yes!” then they belong in this category:</p>
+
+	<p>a. Is the concept visually appealing and innovative?<br />
+b. Does it satisfy the client’s needs and/or <a href="https://cognition.happycog.com/article/connecting-kpis-to-goals-and-objectives">meet user goals</a>? </p>
+
+	<p>2. <strong>Keep On Hand:</strong> </p>
+
+	<p>These are ideas that don’t necessarily meet the strategic design goals or are not visually successful. These don’t need to be shared with the team, but it’s still beneficial to keep them on hand in case someone asks “did you try <span class="caps">XYZ</span>?”</p>
+
+	<p>3. <strong>“Half Baked”: </strong></p>
+
+	<p>These are the concepts that are unrefined and currently only partially achieving the strategic design goal(s). They could easily get overlooked or tossed aside, but this collection of ideas can create the most exciting group discussions and opportunities for collaboration. To receive the best feedback and direction from your teammates, talk through what you think is successful and what some of your hesitations are. You can expect more sweeping, big-picture suggestions in this category, whereas with bucket 1, you might receive more specific feedback. </p>
+
+	<p><center><img src="/m/content/DSC_5550.jpg" alt="happy cog branding board" width="625" /></center></p>
+
+	<h3>Benefits of Sharing</h3>
+
+	<p>Designers inherently want to share refined and polished ideas, but when we’re not afraid to let our guard down and talk through raw ideas, it can foster an open, collaborative team culture, and ultimately a more successful design process. At Happy Cog, we set aside one hour a week for “Adventure Space”—a time dedicated purely to exploration, open conversation, design inspiration, and idea-sharing. We’d call it a safe space, but what’s the fun in that? Consider setting aside a time each week to share your work with others. It can be with fellow designers, or even a family member, or a friend. Getting an outside opinion will always help you re-frame and improve your ideas.</p>
+
+	<h3>Never Stop Exploring</h3>
+
+	<p>Even after the broad conceptual design phase narrows into a more focused visual direction, never lose the exploratory ideation habits and always continue to ask “what if…?” One of the best and most rewarding parts of being a designer is the teamwork, the trial and error, and the feeling of finally achieving the strategic design goals after a long road of experimentation. Embrace the unknown and the unfinished, make “mistakes,” and always share early and share often. </p>
+
+
+
+		<p class="back"><a href="#content">Back to Top</a></p>
+
+		<script>
+		var disqus_config = function() {
+			this.page.url = 'https://cognition.happycog.com/article/design-experimentation-exploring-the-evolution-of-ideation';
+			this.page.identifier = '323';
+		};
+		(function() {
+		var d = document, s = d.createElement('script');
+		s.src = 'https://cognitionhappycog.disqus.com/embed.js';
+		s.setAttribute('data-timestamp', +new Date());
+		(d.head || d.body).appendChild(s);
+		})();
+		</script>
+
+		<script>
+		dataLayer.push({
+			'articleTitle': "Design Experimentation: Exploring the Evolution of Ideation",
+			'articleAuthor': "Kate Lechleiter",
+			'articlePublish': "2019-08-13",
+			'articleTopics': "design process,Design",
+			'articleTags': ""		});
+		</script>
+		<script></script>
+
+
+
+		<div id="responses">
+			<div id="disqus_thread"></div>
+			<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+			<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+		</div>
+
+		
+		<div class="p-wrap">
+		<div class="prev" id="prev-page">
+			<a href="https://cognition.happycog.com/article/humans-vs-machines-when-to-automate-your-paid-media-campaigns" data-ga-category="Article Toggle" data-ga-action="Previous" data-ga-label="Humans vs Machines: When to Automate Your Paid Media Campaigns"><strong class="zeta">Previous</strong>
+			Humans vs Machines: When to Automate Your Paid Media Campaigns</a>
+		</div>
+		</div>
+		
+
+		
+		<div class="n-wrap">
+		<div class="next" id="next-page">
+			<a href="https://cognition.happycog.com/article/enter-the-matrix" data-ga-category="Article Toggle" data-ga-action="Next" data-ga-label="Enter the Matrix"><strong class="zeta">Next</strong>
+			Enter the Matrix</a>
+		</div>
+		</div>
+		
+
+	</div>
+
+		</div></div>
+
+
+
+<div id="sub-footer">
+	<div class="wrap">
+		<div class="footer-extra">
+			<h2 class="epsilon">Want to hire us?</h2>
+			<p><a href="http://happycog.com/contact">Get in touch</a>. We&rsquo;d love to chat.</p>
+			<h2 class="epsilon">Subscribe</h2>
+			<p><a href="http://feeds.vectormediagroup.com/cognitionfeed" class="feed">RSS Feed</a></p>
+		</div>
+		<dl>
+			<dt>Happy Cog New York</dt>
+				<dd>99 Madison Avenue</dd>
+				<dd>Floor 10</dd>
+				<dd>New York, NY 10016</dd>
+		</dl>
+		<dl>
+			<dt>Happy Cog Philadelphia</dt>
+				<dd>1430 Walnut St.</dd>
+				<dd>Suite 200</dd>
+				<dd>Philadelphia, PA 19102</dd>
+		</dl>
+	</div></div>
+<p class="copyright">Copyright 1995&ndash;2020 Happy Cog&trade;</p>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="/a/j/jquery.easing.1.3.js"></script>
+<script src="/a/j/functions.js"></script>
+
+<script src="https://use.typekit.com/ifu7qed.js"></script>
+<script >try{Typekit.load();}catch(e){}</script>
+
+
+	<script src="/a/j/scrollFollow.js"></script>
+
+</body>
+</html>
